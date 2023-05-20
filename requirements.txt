@@ -3,7 +3,7 @@ Flask_Cors==3.0.10
 gradio>=3.7.0
 numpy==1.23.0
 pyworld==0.2.5
-scipy==1.10.0
+scipy==1.18.0
 SoundFile==0.12.1
 torch==1.13.1
 torchaudio==0.13.1
